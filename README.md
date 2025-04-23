@@ -70,7 +70,7 @@ This project aims to classify plant diseases using deep learning, specifically C
 
 ## 📌 Future Improvements
 
-- Experiment with **transfer learning** (e.g., MobileNetV2, EfficientNet)
+- Experiment with **transfer learning** (e.g., ResNet50, VGG16)
 - Implement **multi-output classification** to predict plant and disease as separate targets
 - Add **explainability tools** (e.g., Grad-CAM) to visualize what the model is focusing on
 - Address class imbalance using **class weights** or **oversampling**
